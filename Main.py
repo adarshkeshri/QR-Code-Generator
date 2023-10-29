@@ -8,7 +8,6 @@ win.title('QR Code Generator')
 win.geometry('650x650')
 win.config(bg='DarkTurquoise')
 
-
 #Function to generate the QR code and save it
 def generateCode():
     #Creating a QRCode object of the size specified by the user
